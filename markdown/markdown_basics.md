@@ -41,7 +41,7 @@ Next I will write __very__, ****strong**** or bold text.
 
 This example will contain an *intra* word emphasis. This is a varable name var_example_int but Markdown will render emphasis by default.
 
-To escape an __underscore__ we need to \_underscore.
+To escape an __underscore__ we need to **\_underscore**.
 
 # Quotes Example
 
